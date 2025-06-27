@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/glove/glove.egg-info/PKG-INFO
+../build/glove/glove.egg-info/SOURCES.txt
+../build/glove/glove.egg-info/dependency_links.txt
+../build/glove/glove.egg-info/entry_points.txt
+../build/glove/glove.egg-info/requires.txt
+../build/glove/glove.egg-info/top_level.txt
+../build/glove/glove.egg-info/zip-safe
+glove/__init__.py
+glove/read_and_send_zmq.py
+resource/glove
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

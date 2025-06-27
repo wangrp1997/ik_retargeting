@@ -1,0 +1,38 @@
+[0.466s] Invoking command in '/home/rw/ros2_ws/src/ik_retargeting/glove': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/rw/ros2_ws/src/ik_retargeting/build/glove/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/glove build --build-base /home/rw/ros2_ws/src/ik_retargeting/build/glove/build install --record /home/rw/ros2_ws/src/ik_retargeting/build/glove/install.log --single-version-externally-managed install_data
+[0.583s] running egg_info
+[0.583s] creating ../build/glove/glove.egg-info
+[0.591s] writing ../build/glove/glove.egg-info/PKG-INFO
+[0.591s] writing dependency_links to ../build/glove/glove.egg-info/dependency_links.txt
+[0.591s] writing entry points to ../build/glove/glove.egg-info/entry_points.txt
+[0.591s] writing requirements to ../build/glove/glove.egg-info/requires.txt
+[0.591s] writing top-level names to ../build/glove/glove.egg-info/top_level.txt
+[0.591s] writing manifest file '../build/glove/glove.egg-info/SOURCES.txt'
+[0.606s] reading manifest file '../build/glove/glove.egg-info/SOURCES.txt'
+[0.607s] writing manifest file '../build/glove/glove.egg-info/SOURCES.txt'
+[0.607s] running build
+[0.607s] running build_py
+[0.607s] creating /home/rw/ros2_ws/src/ik_retargeting/build/glove/build
+[0.607s] creating /home/rw/ros2_ws/src/ik_retargeting/build/glove/build/lib
+[0.607s] creating /home/rw/ros2_ws/src/ik_retargeting/build/glove/build/lib/glove
+[0.607s] copying glove/read_and_send_zmq.py -> /home/rw/ros2_ws/src/ik_retargeting/build/glove/build/lib/glove
+[0.607s] copying glove/__init__.py -> /home/rw/ros2_ws/src/ik_retargeting/build/glove/build/lib/glove
+[0.607s] running install
+[0.610s] running install_lib
+[0.618s] creating /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages/glove
+[0.618s] copying /home/rw/ros2_ws/src/ik_retargeting/build/glove/build/lib/glove/read_and_send_zmq.py -> /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages/glove
+[0.618s] copying /home/rw/ros2_ws/src/ik_retargeting/build/glove/build/lib/glove/__init__.py -> /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages/glove
+[0.618s] byte-compiling /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages/glove/read_and_send_zmq.py to read_and_send_zmq.cpython-312.pyc
+[0.619s] byte-compiling /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages/glove/__init__.py to __init__.cpython-312.pyc
+[0.619s] running install_data
+[0.619s] creating /home/rw/ros2_ws/src/ik_retargeting/install/glove/share/ament_index
+[0.619s] creating /home/rw/ros2_ws/src/ik_retargeting/install/glove/share/ament_index/resource_index
+[0.619s] creating /home/rw/ros2_ws/src/ik_retargeting/install/glove/share/ament_index/resource_index/packages
+[0.619s] copying resource/glove -> /home/rw/ros2_ws/src/ik_retargeting/install/glove/share/ament_index/resource_index/packages
+[0.619s] copying package.xml -> /home/rw/ros2_ws/src/ik_retargeting/install/glove/share/glove
+[0.619s] running install_egg_info
+[0.628s] Copying ../build/glove/glove.egg-info to /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages/glove-0.0.0-py3.12.egg-info
+[0.628s] running install_scripts
+[0.683s] Installing read_and_send script to /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/glove
+[0.683s] Installing read_and_send_zmq script to /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/glove
+[0.683s] writing list of installed files to '/home/rw/ros2_ws/src/ik_retargeting/build/glove/install.log'
+[0.698s] Invoked command in '/home/rw/ros2_ws/src/ik_retargeting/glove' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/rw/ros2_ws/src/ik_retargeting/build/glove/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/glove build --build-base /home/rw/ros2_ws/src/ik_retargeting/build/glove/build install --record /home/rw/ros2_ws/src/ik_retargeting/build/glove/install.log --single-version-externally-managed install_data

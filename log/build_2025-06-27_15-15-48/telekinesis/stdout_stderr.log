@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/telekinesis/telekinesis.egg-info
+writing ../build/telekinesis/telekinesis.egg-info/PKG-INFO
+writing dependency_links to ../build/telekinesis/telekinesis.egg-info/dependency_links.txt
+writing entry points to ../build/telekinesis/telekinesis.egg-info/entry_points.txt
+writing requirements to ../build/telekinesis/telekinesis.egg-info/requires.txt
+writing top-level names to ../build/telekinesis/telekinesis.egg-info/top_level.txt
+writing manifest file '../build/telekinesis/telekinesis.egg-info/SOURCES.txt'
+reading manifest file '../build/telekinesis/telekinesis.egg-info/SOURCES.txt'
+writing manifest file '../build/telekinesis/telekinesis.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rw/ros2_ws/src/ik_retargeting/build/telekinesis/build
+creating /home/rw/ros2_ws/src/ik_retargeting/build/telekinesis/build/lib
+creating /home/rw/ros2_ws/src/ik_retargeting/build/telekinesis/build/lib/telekinesis
+copying telekinesis/__init__.py -> /home/rw/ros2_ws/src/ik_retargeting/build/telekinesis/build/lib/telekinesis
+copying telekinesis/leap_ik.py -> /home/rw/ros2_ws/src/ik_retargeting/build/telekinesis/build/lib/telekinesis
+running install
+running install_lib
+creating /home/rw/ros2_ws/src/ik_retargeting/install/telekinesis/lib/python3.12/site-packages/telekinesis
+copying /home/rw/ros2_ws/src/ik_retargeting/build/telekinesis/build/lib/telekinesis/__init__.py -> /home/rw/ros2_ws/src/ik_retargeting/install/telekinesis/lib/python3.12/site-packages/telekinesis
+copying /home/rw/ros2_ws/src/ik_retargeting/build/telekinesis/build/lib/telekinesis/leap_ik.py -> /home/rw/ros2_ws/src/ik_retargeting/install/telekinesis/lib/python3.12/site-packages/telekinesis
+byte-compiling /home/rw/ros2_ws/src/ik_retargeting/install/telekinesis/lib/python3.12/site-packages/telekinesis/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/rw/ros2_ws/src/ik_retargeting/install/telekinesis/lib/python3.12/site-packages/telekinesis/leap_ik.py to leap_ik.cpython-312.pyc
+running install_data
+creating /home/rw/ros2_ws/src/ik_retargeting/install/telekinesis/share/ament_index
+creating /home/rw/ros2_ws/src/ik_retargeting/install/telekinesis/share/ament_index/resource_index
+creating /home/rw/ros2_ws/src/ik_retargeting/install/telekinesis/share/ament_index/resource_index/packages
+copying resource/telekinesis -> /home/rw/ros2_ws/src/ik_retargeting/install/telekinesis/share/ament_index/resource_index/packages
+copying package.xml -> /home/rw/ros2_ws/src/ik_retargeting/install/telekinesis/share/telekinesis
+running install_egg_info
+Copying ../build/telekinesis/telekinesis.egg-info to /home/rw/ros2_ws/src/ik_retargeting/install/telekinesis/lib/python3.12/site-packages/telekinesis-0.0.0-py3.12.egg-info
+running install_scripts
+Installing leap_ik script to /home/rw/ros2_ws/src/ik_retargeting/install/telekinesis/lib/telekinesis
+writing list of installed files to '/home/rw/ros2_ws/src/ik_retargeting/build/telekinesis/install.log'

@@ -1,0 +1,36 @@
+running egg_info
+creating ../build/glove/glove.egg-info
+writing ../build/glove/glove.egg-info/PKG-INFO
+writing dependency_links to ../build/glove/glove.egg-info/dependency_links.txt
+writing entry points to ../build/glove/glove.egg-info/entry_points.txt
+writing requirements to ../build/glove/glove.egg-info/requires.txt
+writing top-level names to ../build/glove/glove.egg-info/top_level.txt
+writing manifest file '../build/glove/glove.egg-info/SOURCES.txt'
+reading manifest file '../build/glove/glove.egg-info/SOURCES.txt'
+writing manifest file '../build/glove/glove.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rw/ros2_ws/src/ik_retargeting/build/glove/build
+creating /home/rw/ros2_ws/src/ik_retargeting/build/glove/build/lib
+creating /home/rw/ros2_ws/src/ik_retargeting/build/glove/build/lib/glove
+copying glove/read_and_send_zmq.py -> /home/rw/ros2_ws/src/ik_retargeting/build/glove/build/lib/glove
+copying glove/__init__.py -> /home/rw/ros2_ws/src/ik_retargeting/build/glove/build/lib/glove
+running install
+running install_lib
+creating /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages/glove
+copying /home/rw/ros2_ws/src/ik_retargeting/build/glove/build/lib/glove/read_and_send_zmq.py -> /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages/glove
+copying /home/rw/ros2_ws/src/ik_retargeting/build/glove/build/lib/glove/__init__.py -> /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages/glove
+byte-compiling /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages/glove/read_and_send_zmq.py to read_and_send_zmq.cpython-312.pyc
+byte-compiling /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages/glove/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/rw/ros2_ws/src/ik_retargeting/install/glove/share/ament_index
+creating /home/rw/ros2_ws/src/ik_retargeting/install/glove/share/ament_index/resource_index
+creating /home/rw/ros2_ws/src/ik_retargeting/install/glove/share/ament_index/resource_index/packages
+copying resource/glove -> /home/rw/ros2_ws/src/ik_retargeting/install/glove/share/ament_index/resource_index/packages
+copying package.xml -> /home/rw/ros2_ws/src/ik_retargeting/install/glove/share/glove
+running install_egg_info
+Copying ../build/glove/glove.egg-info to /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/python3.12/site-packages/glove-0.0.0-py3.12.egg-info
+running install_scripts
+Installing read_and_send script to /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/glove
+Installing read_and_send_zmq script to /home/rw/ros2_ws/src/ik_retargeting/install/glove/lib/glove
+writing list of installed files to '/home/rw/ros2_ws/src/ik_retargeting/build/glove/install.log'

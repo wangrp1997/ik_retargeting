@@ -1,0 +1,3 @@
+[console_scripts]
+read_and_send = glove.read_and_send:main
+read_and_send_zmq = glove.read_and_send_zmq:main

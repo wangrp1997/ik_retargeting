@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/telekinesis/telekinesis.egg-info/PKG-INFO
+../build/telekinesis/telekinesis.egg-info/SOURCES.txt
+../build/telekinesis/telekinesis.egg-info/dependency_links.txt
+../build/telekinesis/telekinesis.egg-info/entry_points.txt
+../build/telekinesis/telekinesis.egg-info/requires.txt
+../build/telekinesis/telekinesis.egg-info/top_level.txt
+../build/telekinesis/telekinesis.egg-info/zip-safe
+resource/telekinesis
+telekinesis/__init__.py
+telekinesis/leap_ik.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
